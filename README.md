@@ -1,11 +1,12 @@
-### Olá! Eu sou o Pedro Augusto 
+### Olá! Eu sou o Pedro Augusto 🤙
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pedro-augusto-mendes-092281206)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_pedromendes/)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-![DevPedroAugusto-BR GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPedroAugusto&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevPedroAugusto-BR&layout=compact)
+![DevPedroAugusto-BR GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPedroAugusto-BR&show_icons=true&theme=dracula))
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevPedroAugusto-BR&hide_progress=true)
 
 # Tecnologias que eu uso no dia-a-dia
 
@@ -19,3 +20,12 @@
 </div><br/>
 
 "Não fui eu que ordenei a você? Seja forte e corajoso! Não se apavore nem desanime, pois o Senhor, o seu Deus, estará com você por onde você andar". Josué: 1:9
+
+# Sobre mim
+
+"Estudante de Ciência da Computação pela Universidade Federal de Alfenas, discente no 7° período. 21 anos,
+fascinado por tecnologia e música. Introvertido, mas alegre! Busco sempre aprender a ouvir, também para
+saber a hora de falar. Atualmente, desenvolvedor back end com NodeJs e TypeScript. Frases e versículos são
+um hobbie. Aqui está uma das minhas preferidas. 
+”Não é preciso ser excelente para começar. Mas é necessário começar para ser excelente”.
+
